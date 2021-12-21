@@ -4,4 +4,4 @@
 ![Eclipse Marketplace](https://img.shields.io/badge/version-v2.4-green)
 <br/><br/>
 TSBattery a new way to save your battery avoid cancer apps hacker it.<br/>
-TSBattery 是一个旨在使 QQ、TIM 变得更省电的开源 Xposed 模块
+TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块
