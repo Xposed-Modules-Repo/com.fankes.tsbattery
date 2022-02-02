@@ -1,5 +1,4 @@
 # TSBattery
-![Eclipse Marketplace](https://img.shields.io/badge/build-passing-brightgreen)
 ![Eclipse Marketplace](https://img.shields.io/badge/license-GPL3.0-blue)
 ![Eclipse Marketplace](https://img.shields.io/badge/version-v3.1-green)
 <br/><br/>
