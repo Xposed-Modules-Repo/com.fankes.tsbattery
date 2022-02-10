@@ -7,4 +7,4 @@ A new way to save your battery avoid cancer apps hacker it.<br/>
 TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。<br/>
 
 Xposed-Modules-Repo 有一定时长的缓存，若最新版本无法下载请前往如下地址下载<br/>
-[Release 发布地址](https://github.com/fankes/MIUINativeNotifyIcon/releases)
+[Release 发布地址](https://github.com/fankes/TSBattery/releases)
