@@ -1,6 +1,6 @@
 # TSBattery
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
-![Eclipse Marketplace](https://img.shields.io/badge/version-v3.5-green)
+![Eclipse Marketplace](https://img.shields.io/badge/version-v3.6-green)
 <br/><br/>
 ![banner](https://github.com/Xposed-Modules-Repo/com.fankes.tsbattery/blob/master/banner.png)<br/>
 A new way to save your battery avoid cancer apps hacker it.<br/>
