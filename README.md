@@ -1,6 +1,6 @@
 # TSBattery
 ![Blank](https://img.shields.io/badge/license-AGPL3.0-blue)
-![Blank](https://img.shields.io/badge/version-v3.9-green)
+![Blank](https://img.shields.io/badge/version-v3.95-green)
 [![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
 <br/><br/>
 ![banner](https://github.com/Xposed-Modules-Repo/com.fankes.tsbattery/blob/master/banner.png)<br/>
