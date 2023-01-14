@@ -23,4 +23,4 @@ Xposed-Modules-Repo 有一定时长的缓存，若最新版本无法下载请前
 
 YukiHookAPI 是一个使用 Kotlin 重构的高效 Hook API 构建工具，让你的 Xposed 模块开发变得更加简单。
 
-版权所有 © 2019-2023 Fankes Studio(qzmmcn@163.com)
+版权所有 © 2017-2023 Fankes Studio(qzmmcn@163.com)
