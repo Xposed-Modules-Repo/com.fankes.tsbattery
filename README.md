@@ -11,7 +11,7 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 Xposed-Modules-Repo 有一定时长的缓存，若最新版本无法下载请前往如下地址下载
 
 [Release 发布地址](https://github.com/fankes/TSBattery/releases)
-
+dc
 ## 捐赠支持
 
 - 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。<br/><br/>
