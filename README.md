@@ -11,7 +11,7 @@
 [![QQ](https://img.shields.io/badge/discussion-QQ-blue.svg?logo=tencent-qq&logoColor=red)](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
 [![QQ 频道](https://img.shields.io/badge/discussion-QQ%20频道-blue.svg?logo=tencent-qq&logoColor=red)](https://pd.qq.com/s/44gcy28h)
 
-![Banner](https://github.com/Xposed-Modules-Repo/com.fankes.tsbattery/blob/master/banner.png?raw=true)
+![Banner](https://github.com/fankes/TSBattery/blob/master/img-src/banner.png?raw=true)
 
 A new way to save your battery avoid cancer apps hacker it.
 
@@ -25,7 +25,7 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 
 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。
 
-<img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500"/>
+<img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500" alt="Payment Code"/>
 
 ## 贡献
 
