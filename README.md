@@ -21,6 +21,14 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 
 如果在微信设置界面右上角你无法找到 **TSBattery** 的图标，请尝试同时激活 [WeXposed (微X模块)](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)
 
+## 项目推广
+
+如果你正在寻找一个可以自动管理 Gradle 项目依赖的 Gradle 插件，你可以了解一下 [SweetDependency](https://github.com/HighCapable/SweetDependency) 项目。
+
+如果你正在寻找一个可以自动生成属性键值的 Gradle 插件，你可以了解一下 [SweetProperty](https://github.com/HighCapable/SweetProperty) 项目。
+
+本项目同样使用了 **SweetDependency** 和 **SweetProperty**。
+
 ## 捐赠支持
 
 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。
