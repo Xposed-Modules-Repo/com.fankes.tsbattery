@@ -1,25 +1,31 @@
 # TSBattery
-![Blank](https://img.shields.io/badge/license-AGPL3.0-blue)
-![Blank](https://img.shields.io/badge/version-v4.3-green)
-[![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
-<br/><br/>
-![banner](https://github.com/Xposed-Modules-Repo/com.fankes.tsbattery/blob/master/banner.png?raw=true)<br/>
+
+[![GitHub license](https://img.shields.io/github/license/fankes/TSBattery?color=blue)](https://github.com/fankes/TSBattery/blob/master/LICENSE)
+[![GitHub CI](https://img.shields.io/github/actions/workflow/status/fankes/TSBattery/commit_ci.yml?label=CI%20builds)](https://github.com/fankes/TSBattery/actions/workflows/commit_ci.yml)
+[![GitHub release](https://img.shields.io/github/v/release/fankes/TSBattery?display_name=release&logo=github&color=green)](https://github.com/fankes/TSBattery/releases)
+![GitHub all releases](https://img.shields.io/github/downloads/fankes/TSBattery/total?label=downloads)
+![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.fankes.tsbattery/total?label=LSPosed%20downloads&labelColor=F48FB1)
+
+[![Telegram CI](https://img.shields.io/badge/CI%20builds-Telegram-blue.svg?logo=telegram)](https://t.me/TSBATTERY_CI)
+[![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
+[![QQ](https://img.shields.io/badge/discussion-QQ-blue.svg?logo=tencent-qq&logoColor=red)](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
+[![QQ 频道](https://img.shields.io/badge/discussion-QQ%20频道-blue.svg?logo=tencent-qq&logoColor=red)](https://pd.qq.com/s/44gcy28h)
+
+![Banner](https://github.com/Xposed-Modules-Repo/com.fankes.tsbattery/blob/master/banner.png?raw=true)
+
 A new way to save your battery avoid cancer apps hacker it.
 
 TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。
 
-Xposed-Modules-Repo 有一定时长的缓存，若最新版本无法下载请前往如下地址下载
-
-[Release 发布地址](https://github.com/fankes/TSBattery/releases)
-
 ## 适配说明
 
-- 如果在微信设置界面右上角你无法找到 **TSBattery** 的图标，请尝试同时激活 [WeXposed (微X模块)](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)
+如果在微信设置界面右上角你无法找到 **TSBattery** 的图标，请尝试同时激活 [WeXposed (微X模块)](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)
 
 ## 捐赠支持
 
-- 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。<br/><br/>
-  <img src="https://github.com/fankes/YuKiHookAPI/blob/master/img-src/wechat_code.jpg?raw=true" width = "200" height = "200"/>
+工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。
+
+<img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500"/>
 
 ## 贡献
 
