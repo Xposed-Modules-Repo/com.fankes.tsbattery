@@ -19,7 +19,7 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 
 ## 适配说明
 
-如果在微信设置界面右上角你无法找到 **TSBattery** 的图标，请尝试同时激活 [WeXposed (微X模块)](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)
+如果在微信设置界面右上角你无法找到 **TSBattery** 的图标，请尝试同时激活 [WeXposed (微X模块)](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)。
 
 ## 发行渠道
 
