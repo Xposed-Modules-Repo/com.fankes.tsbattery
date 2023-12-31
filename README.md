@@ -63,4 +63,4 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 
 YukiHookAPI 是一个使用 Kotlin 重构的高效 Hook API 构建工具，让你的 Xposed 模块开发变得更加简单。
 
-版权所有 © 2017-2023 Fankes Studio(qzmmcn@163.com)
+版权所有 © 2017-2024 Fankes Studio(qzmmcn@163.com)
